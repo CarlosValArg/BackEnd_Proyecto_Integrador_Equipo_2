@@ -1,4 +1,4 @@
-use software_sphere;
+use softwaresphere;
 SELECT * FROM usuarios;
 SELECT * FROM orden;
 SELECT * FROM servicios;
